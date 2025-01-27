@@ -1,5 +1,3 @@
-x### README for CosmoFund Smart Contract
-
 ---
 
 # **ClarityFund: Decentralized Crowdfunding for Space Exploration**
